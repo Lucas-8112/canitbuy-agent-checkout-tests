@@ -1,0 +1,1262 @@
+[
+{
+"id": "pybuj",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "ky9a4",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "yrpx5",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "fmza7",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "kuu89",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "hahye",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "zzury",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "v6znt",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "ct6hj",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "zxueq",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "epe4g",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "bsh68",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "qrta5",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "s9xht",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "jtekz",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "g4s2q",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "nhzda",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "hd7h3",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "env3w",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "g6r5b",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "rjfeh",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "quh5n",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "btkku",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "wjyp3",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "qrmeq",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "g2nz3",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "cb2mr",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "ybnrx",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "kwu5x",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "mpsy9",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "nbnx9",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "tzp4z",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "vqdus",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "tqzgk",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "s6dxh",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "d2evk",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "hmhv8",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "v5sp8",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "jnmdd",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "kc6tt",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "bjaem",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "rzhe5",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "w9a5r",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "r7z27",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "qxzjh",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "vghn7",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "gm2ez",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "adwas",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "xysc2",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "v7ksn",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "k57wn",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "usa5m",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "f5pks",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "fu6hr",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "mx5hb",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "acyzv",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "gq725",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "cjcbb",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "du9ng",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "evdar",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "r7qpj",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "pnyk4",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "nm3vz",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "e4r2x",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "eweaq",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "fmcru",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "phg69",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "eu9qh",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "t3fc9",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "gh94s",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "h9wf4",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "nyvmy",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "aqngw",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "geeve",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "j77mj",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "eehp8",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "j6qd6",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "efke4",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "t2mqh",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "epbb8",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "fcxzb",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "vvun4",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "shdp3",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "ue9zz",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "d99hu",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "jxbg9",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "kqsc3",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "s88vp",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "mtxe2",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "vaj3h",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "redj3",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "m68fn",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "ec64c",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "mm49c",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "gg8sb",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "em6ad",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "evg6j",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "x7hfe",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "mfjm4",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "pfxmp",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "c9s2g",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "k6dhp",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "syhus",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "ghetu",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "sv9m8",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "h4nyk",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "w2duh",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "gznj8",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "pjzf6",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "scpug",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "ju54a",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "tajfa",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "ktnpn",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "gb9fj",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "v6nym",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "v2pum",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "xh2y7",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "vkv99",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "avsq3",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "m6vwg",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "yf8dk",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "ktwgk",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "v6gc5",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "twfrm",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "uewt9",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "rsxjb",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "ae2sy",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "bxgfe",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "q4kb2",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "dek83",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "ketjp",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "vfbtq",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "twztm",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "n4dc4",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "ep8kz",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "j64z7",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "sk66w",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "zbpwc",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "pjz2b",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "vspqk",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "vtmwd",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "zanve",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "pne67",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "fwgb4",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "prq9c",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "kar6e",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "zb965",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "hbcqu",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "jqs3m",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "ukrgd",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "g2gaq",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "wcmb8",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "fwas4",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "jza64",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "vry99",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "nng8a",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "jvsut",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "mbxed",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "razaq",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "nefqx",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "hpazt",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "cmt9m",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "gvvw2",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "bw7bc",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "zsw4m",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "e5mqa",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "vza5p",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default"
+},
+{
+"id": "p9nh5",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "rvq92",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "mszfe",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "v2v4m",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "zw7sk",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "q2wvt",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "kn6fr",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default"
+},
+{
+"id": "uzuas",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "nwxyr",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+},
+{
+"id": "ppyfu",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard"
+},
+{
+"id": "uraz4",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard"
+},
+{
+"id": "muewv",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard"
+},
+{
+"id": "ts3tb",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default"
+}
+]

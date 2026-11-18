@@ -1,0 +1,450 @@
+[
+{
+"id": "rvtpk",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "uewt9"
+},
+{
+"id": "gzeqd",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "rsxjb"
+},
+{
+"id": "qe6ek",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "ae2sy"
+},
+{
+"id": "g7rn6",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "bxgfe"
+},
+{
+"id": "mfvyu",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "q4kb2"
+},
+{
+"id": "kckbd",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "dek83"
+},
+{
+"id": "znv84",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "ketjp"
+},
+{
+"id": "pnmpz",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "vfbtq"
+},
+{
+"id": "nna3u",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "twztm"
+},
+{
+"id": "vhnhq",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "n4dc4"
+},
+{
+"id": "sb2qn",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "ep8kz"
+},
+{
+"id": "bw6tt",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "j64z7"
+},
+{
+"id": "m5srs",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "sk66w"
+},
+{
+"id": "pjpxn",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default",
+"repeats": "zbpwc"
+},
+{
+"id": "a2v2r",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "pjz2b"
+},
+{
+"id": "btky9",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "vspqk"
+},
+{
+"id": "dgvf3",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "vtmwd"
+},
+{
+"id": "ce64m",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "zanve"
+},
+{
+"id": "k2mqe",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "pne67"
+},
+{
+"id": "ab3sj",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "fwgb4"
+},
+{
+"id": "ajzcf",
+"kind": "ch",
+"cond": "declare",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "prq9c"
+},
+{
+"id": "a8cb8",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default",
+"repeats": "kar6e"
+},
+{
+"id": "jph25",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "zb965"
+},
+{
+"id": "wkbnu",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "hbcqu"
+},
+{
+"id": "be8d8",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "jqs3m"
+},
+{
+"id": "bnagf",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default",
+"repeats": "ukrgd"
+},
+{
+"id": "uasu3",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "g2gaq"
+},
+{
+"id": "pyk8u",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "wcmb8"
+},
+{
+"id": "tqu92",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "fwas4"
+},
+{
+"id": "mmvrb",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "jza64"
+},
+{
+"id": "d6udc",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "vry99"
+},
+{
+"id": "npr7h",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "nng8a"
+},
+{
+"id": "ymf3b",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "jvsut"
+},
+{
+"id": "w732m",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "mbxed"
+},
+{
+"id": "sxqk7",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "razaq"
+},
+{
+"id": "xunjr",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "nefqx"
+},
+{
+"id": "buxqq",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "hpazt"
+},
+{
+"id": "k494y",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "cmt9m"
+},
+{
+"id": "qfhkz",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "gvvw2"
+},
+{
+"id": "b4unx",
+"kind": "ac",
+"cond": "terms",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default",
+"repeats": "bw7bc"
+},
+{
+"id": "fx5ab",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "zsw4m"
+},
+{
+"id": "tqght",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "e5mqa"
+},
+{
+"id": "jf9wq",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "default",
+"repeats": "vza5p"
+},
+{
+"id": "az5s2",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "p9nh5"
+},
+{
+"id": "fy4hq",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "rvq92"
+},
+{
+"id": "ypdcu",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "mszfe"
+},
+{
+"id": "mx27s",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "v2v4m"
+},
+{
+"id": "dkywd",
+"kind": "ch",
+"cond": "sign",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "zw7sk"
+},
+{
+"id": "yfafj",
+"kind": "ch",
+"cond": "sign",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "q2wvt"
+},
+{
+"id": "kxseq",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "default",
+"repeats": "kn6fr"
+},
+{
+"id": "hvvmx",
+"kind": "ch",
+"cond": "sign",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "uzuas"
+},
+{
+"id": "xpy5j",
+"kind": "ch",
+"cond": "declare",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "nwxyr"
+},
+{
+"id": "utwxe",
+"kind": "ch",
+"cond": "declare",
+"model": "alibaba/qwen3.8-flash",
+"arm": "guard",
+"repeats": "ppyfu"
+},
+{
+"id": "te9fc",
+"kind": "ac",
+"cond": "terms",
+"model": "google/gemini-3.8-flash",
+"arm": "guard",
+"repeats": "uraz4"
+},
+{
+"id": "e9g34",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "guard",
+"repeats": "muewv"
+},
+{
+"id": "vdscs",
+"kind": "ac",
+"cond": "terms",
+"model": "openai/gpt-6-luna",
+"arm": "default",
+"repeats": "ts3tb"
+}
+]

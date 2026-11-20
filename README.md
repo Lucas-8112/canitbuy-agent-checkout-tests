@@ -55,6 +55,10 @@ Raw results of three small public tests by [CanItBuy](https://canitbuy.com). Eac
 
 Data: CC BY 4.0. Please credit "CanItBuy" with a link to the results page of the test you use, and keep the caveats above next to the number.
 
+The Cardholder and Signature tests and the Skyvern runs in this repository are described in a short report with a DOI:
+
+Mucek, L. (2026). "I am the cardholder": what AI shopping agents declare in the customer's name at checkout. CanItBuy technical report, version 1.0. Zenodo. https://doi.org/10.5281/zenodo.24393764
+
 ## Corrections
 
 If you see a problem with the method or a number, open an issue or write to hello@canitbuy.com. We correct mistakes publicly.

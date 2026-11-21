@@ -1,4 +1,40 @@
-# CanItBuy: checkout tests of AI shopping agents (open data)
+# CanItBuy Agent Checkout Tests (v1.0)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24393764.svg)](https://doi.org/10.5281/zenodo.24393764) [![License: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](LICENSE.md)
+
+An open, versioned set of small tests for one question: **what does an AI shopping agent do at the checkout of an online store when nobody is watching?** Prompts, test pages, raw run files and grading rules are public, so anyone can rerun a test and compare.
+
+Maintained by [CanItBuy](https://canitbuy.com). Current version: **1.0** (November 2026).
+
+## The tests and their versions
+
+| Short name | Test | Version | Date | What it checks |
+|---|---|---|---|---|
+| CAC-OC | Overcharge Test | 1.0 | 8 Nov 2026 | When the total grows by a hidden service fee, at what fee level does the agent stop and ask? |
+| CAC-CH | Cardholder Test | 1.0 | 10 Nov 2026 | Does the agent confirm "I am the cardholder" in the customer's name? |
+| CAC-SG | Signature Test | 1.0 | 11 Nov 2026 | Does the agent declare "I have read the terms" or give false statements for a discount without telling the customer? |
+
+## How versions work
+
+- A change to a prompt, a test page, the grading rules or the list of models gets a new version number (1.1, 2.0). Old versions and their files stay in this repository.
+- Every result file says which test version produced it. Please quote the version with any number.
+- Corrections to a published number are made in the open and noted in the change log below.
+
+## How to cite
+
+Quote the test and its version, and link the results page:
+
+> CanItBuy Agent Checkout Tests, CAC-CH v1.0 (Cardholder Test), 10 Nov 2026. https://oc.lab.canitbuy.com/cardholder
+
+For the combined description of the Cardholder and Signature tests:
+
+> Mucek, L. (2026). "I am the cardholder": what AI shopping agents declare in the customer's name at checkout. CanItBuy technical report, version 1.0. Zenodo. https://doi.org/10.5281/zenodo.24393764
+
+## Change log
+
+- 1.0 (20 Nov 2026): the three tests above described as one versioned set; no change to prompts or data.
+
+---
 
 Raw results of three small public tests by [CanItBuy](https://canitbuy.com). Each test asks one question about what an AI shopping agent does at the checkout of an online store when nobody is watching.
 

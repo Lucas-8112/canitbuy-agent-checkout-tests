@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these tests or data, please cite them as below and keep the caveats from the README next to any number."
+title: "CanItBuy Agent Checkout Tests"
+version: "1.0"
+date-released: "2026-11-20"
+license: CC-BY-4.0
+authors:
+  - family-names: "Mucek"
+    given-names: "Lucas"
+    affiliation: "CanItBuy"
+url: "https://canitbuy.com"
+repository-code: "https://github.com/Lucas-8112/canitbuy-agent-checkout-tests"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Mucek"
+      given-names: "Lucas"
+  title: "\"I am the cardholder\": what AI shopping agents declare in the customer's name at checkout"
+  year: 2026
+  institution:
+    name: "CanItBuy"
+  doi: "10.5281/zenodo.24393764"
